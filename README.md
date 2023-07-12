@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saqlainimam
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web development and Desginer
 - 🌱 I’m currently learning front-end development
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
